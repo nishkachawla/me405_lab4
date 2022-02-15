@@ -1,8 +1,8 @@
 # me405_lab4
 
 ### Documentation
-###### In this lab we implemented an interrupt callback function in a main program for an RC circuit. The step response for the RC circuit was performed by reading analog output voltage by converting the analog signal to a digital signal using the ADC module.
-###### The time constant of the RC circuit was found through visual inspection of the plot and also by computing the time constant from value of the resistor and capacitor. The percentage difference between these experimental and theoretical values was found. 
+###### In this lab we implemented an interrupt callback function in a main program for an RC circuit. The step response for the RC circuit was performed by measuring the analog output voltage. This was achieved by converting the analog signal to a digital signal using the ADC module.
+###### The time constant of the RC circuit was found through visual inspection of the plot and also by computing the time constant from the values of the resistor and capacitor. The percentage difference between these experimental and theoretical values was found. 
 ###### The step response plot is shown below.
 
 #### Step Response Plots
