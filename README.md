@@ -6,7 +6,7 @@
 ###### The step response plot is shown below.
 
 #### Step Response Plots
-![Step Response of an RC Circuit](Images/RC_Step_Response.png)
+![Step Response of an RC Circuit](Images/RC_Step.png)
 ###### By visually inspecting the step response plot, our team determined the experimental time constant to be 300ms. The theoretical time constant was computed to be 335ms. 
 ###### The percentage difference between the theoretical and experimental time constants is 10.5%. This percent difference falls within the typical tolerance for electrical components.
 
